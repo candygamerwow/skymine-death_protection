@@ -1,0 +1,4 @@
+org\cnadygamer\deathprotectionplugin\TimeUtils.class
+org\cnadygamer\deathprotectionplugin\KillListener.class
+org\cnadygamer\deathprotectionplugin\DeathProtectionPlugin.class
+org\cnadygamer\deathprotectionplugin\DamageListener.class

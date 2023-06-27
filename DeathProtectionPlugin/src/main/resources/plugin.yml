@@ -1,0 +1,5 @@
+name: DeathProtectionPlugin
+version: '${project.version}'
+main: org.cnadygamer.deathprotectionplugin.DeathProtectionPlugin
+api-version: 1.19
+load: STARTUP

@@ -1,0 +1,5 @@
+name: DeathProtectionPlugin
+version: '1.0-SNAPSHOT'
+main: org.cnadygamer.deathprotectionplugin.DeathProtectionPlugin
+api-version: 1.19
+load: STARTUP
